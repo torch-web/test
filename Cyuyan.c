@@ -3,9 +3,9 @@ int main()
 {
   
   int j=0;
-
-  int m = 1;
+  
   int n = 2;
+  int a = 1;
   
   system("pause");
   return 0;
